@@ -22,7 +22,7 @@ const products = [
     images:
     {
       id: 1,
-      src: "https://i.ibb.co/f1dLJ9S/photo1684875169.jpg",
+      src: "https://i.ibb.co/sRsDnd1/photo1685651749.jpg",
       alt: "Early Bird Ticket",
     },
     orgId: "646e381fd7f75a797f25a5e5",
