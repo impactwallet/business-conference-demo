@@ -36,12 +36,12 @@ export default function Navbar() {
                   <div className="flex flex-shrink-0 items-center">
                     <img
                       className="block h-8 w-auto rounded-full lg:hidden"
-                      src="https://i.ibb.co/rdcgwVP/photo1684875159.jpg"
+                      src="https://i.ibb.co/mRWyN0Z/photo1685651736.jpg"
                       alt="Business Conference"
                     />
                     <img
                       className="hidden h-8 w-auto rounded-full lg:block"
-                      src="https://i.ibb.co/rdcgwVP/photo1684875159.jpg"
+                      src="https://i.ibb.co/mRWyN0Z/photo1685651736.jpg"
                       alt="Business Conference"
                     />
                   </div>
