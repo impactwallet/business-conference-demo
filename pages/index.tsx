@@ -9,7 +9,7 @@ const Home: NextPage = () => {
       name: "Early Bird Ticket",
       price: 10,
       imageSrc:
-        "https://i.ibb.co/f1dLJ9S/photo1684875169.jpg",
+        "https://i.ibb.co/sRsDnd1/photo1685651749.jpg",
       imageAlt:
         "Early Bird Ticket",
     },
